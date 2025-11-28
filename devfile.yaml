@@ -62,7 +62,7 @@ commands:
       group:
         kind: build
         isDefault: true
-  - id: run
+  - id: runspringboot
     exec:
       component: tools
       workingDir: ${PROJECT_SOURCE}
